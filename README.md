@@ -1,4 +1,4 @@
-* SQLite3 Database Management Class in Python
+# SQLite3 Database Management Class in Python
 Welcome to the SQLite3 Database Management Class project! This repository provides a comprehensive and user-friendly object-oriented Python class designed to simplify interactions with SQLite3 databases. Whether you are a beginner or an experienced developer, this class offers a robust solution for managing your data seamlessly.
 
 Features
