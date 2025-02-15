@@ -26,7 +26,7 @@ pip install pandas
 Once you have the prerequisites, you can clone this repository:
 
 bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/BilgeJinONEN/NESNE-TABAN-DATABASE-sql-python-sqlite3-class-.git
 Usage
 Here’s a quick guide to get you started with the Database class:
 
